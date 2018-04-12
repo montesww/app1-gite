@@ -19,7 +19,7 @@
   <preference name="orientation"      value="default" />
   <!-- <preferece name="orientation"   value="portrait" />
   <preferece name="orientation" value="landscape"/>-->
-  <preference name="target-device"   value="universas"/>
+  <preference name="target-device"   value="universal"/>
   <preference name="fullscreen"    value="true"/>
   <preference name="android-installLocation" value="auto"/>
   <preference name="permissions" value="INTERNET"/>
